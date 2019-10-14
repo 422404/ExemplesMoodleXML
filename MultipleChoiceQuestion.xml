@@ -1,11 +1,7 @@
 <?xml version="1.0"?>
 <question type="multichoice">
 	<name>
-<<<<<<< HEAD
 		<text>Demo question à choix multiples (Non)</text>
-=======
-		<text>Demo question à choix multiples (Oui)</text>
->>>>>>> d180d8fa3298ba5874d1ef3ccbc0f6299367b7cc
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
